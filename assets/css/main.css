@@ -2671,6 +2671,16 @@ input[type="button"]:disabled,
   margin: 0;
 }
 
+.work-item a {
+  color: #787878;
+  border-bottom: solid 1px transparent;
+}
+
+.work-item a:hover {
+  color: #49bf9d;
+  border-bottom: solid 1px;
+}
+
 /* Header */
 
 #header {
